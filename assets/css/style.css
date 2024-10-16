@@ -1,0 +1,73 @@
+/* font face */
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/poppins/Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/Manrope/Manrope-Regular.ttf') format('truetype');
+}
+
+:root {
+  /* color */
+  --ui-white: #FFFFFF;
+  --ui-black: #000000;
+  --ui-light-100: #F2F9FE;
+  --ui-light-200: #F4F6FA;
+  --ui-light-300: #DEE8F6;
+  --ui-light-400: #C8D3E3;
+  --ui-light-500: #B2B9C0;
+  --ui-light-600: #828E9D;
+  --ui-light-700: #90A2AF;
+  --ui-dark-200: #3D4045;
+  --ui-dark-300: #181E26;
+  --ui-dark-400: #191C24;
+  --ui-dark-500: #212A40;
+  --ui-dark-600: #1B1F26;
+  --ui-dark-700: #070C14;
+  --ui-dark-800: #14161E;
+  --ui-blue-200: #485E79;
+  --ui-blue-300: #1F78FF;
+  --ui-blue-400: #2A7FFF;
+  --ui-blue-500: #0E8EFF;
+  --ui-blue-600: #1065E3;
+  --ui-blue-700: #9657D0;
+  --ui-blue-800: #084DB3;
+  --ui-light-secondary: #D1DAE8;
+  --ui-yellow: #FFB407;
+  --form-border: #EEF2F7;
+  --pricing-border: #B6CBE9;
+  --error: #EE4444;
+
+  /* text */
+  --heading-1-l: 500 68px/1.2 'Poppins', sans-serif;
+  --heading-1-m: 500 50px/1.2 'Poppins', sans-serif;
+  --heading-1-s: 500 36px/1.2 'Poppins', sans-serif;
+  --heading-1-giant-l: 500 320px/1.2 'Poppins', sans-serif;
+  --heading-1-giant-m: 500 230px/1.2 'Poppins', sans-serif;
+  --heading-1-giant-s: 500 150px/1.2 'Poppins', sans-serif;
+  --heading-2-l: 500 58px/1.2 'Poppins', sans-serif;
+  --heading-2-m: 500 46px/1.2 'Poppins', sans-serif;
+  --heading-2-s: 500 34px/1.2 'Poppins', sans-serif;
+  --heading-3-l: 500 44px/1.3 'Poppins', sans-serif;
+  --heading-3-m: 500 32px/1.3 'Poppins', sans-serif;
+  --heading-3-s: 500 28px/1.3 'Poppins', sans-serif;
+  --heading-3-number-l: 500 64px/1.15 'Poppins', sans-serif;
+  --heading-3-number-m: 500 42px/1.15 'Poppins', sans-serif;
+  --heading-3-number-s: 500 38px/1.15 'Poppins', sans-serif;
+  --heading-4-l: 500 34px/1.2 'Poppins', sans-serif;
+  --heading-4-m: 500 29px/1.2 'Poppins', sans-serif;
+  --heading-4-s: 500 22px/1.2 'Poppins', sans-serif;
+  --heading-4-small-l: 500 26px/1.3 'Poppins', sans-serif;
+  --heading-4-small-m: 500 22px/1.3 'Poppins', sans-serif;
+  --heading-4-small-s: 500 18px/1.6 'Poppins', sans-serif;
+  --heading-4-medium-l: 500 30px/1.2 'Poppins', sans-serif;
+  --heading-4-medium-m: 500 26px/1.2 'Poppins', sans-serif;
+  --heading-4-medium-s: 500 22px/1.2 'Poppins', sans-serif;
+  --heading-5-large-l: 500 24px/1.65 'Poppins', sans-serif;
+}
+
+h1 {
+  font: var(--heading-1-l);
+}
