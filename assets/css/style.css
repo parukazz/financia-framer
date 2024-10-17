@@ -66,6 +66,24 @@
   --heading-4-medium-m: 500 26px/1.2 'Poppins', sans-serif;
   --heading-4-medium-s: 500 22px/1.2 'Poppins', sans-serif;
   --heading-5-large-l: 500 24px/1.65 'Poppins', sans-serif;
+  --heading-5-large-m: 500 22px/1.65 'Poppins', sans-serif;
+  --heading-5-large-s: 500 20px/1.65 'Poppins', sans-serif;
+  --heading-5-l: 500 22px/1.5 'Poppins', sans-serif;
+  --heading-5-m: 500 20px/1.5 'Poppins', sans-serif;
+  --heading-5-s: 500 18px/1.5 'Poppins', sans-serif;
+  --heading-6-l: 500 20px/1.5 'Poppins', sans-serif;
+  --heading-6-m: 500 18px/1.5 'Poppins', sans-serif;
+  --heading-6-s: 500 17px/1.5 'Poppins', sans-serif;
+  --heading-6-small: 600 17px/1.2 'Manrope', sans-serif;
+  --body-l: 400 18px/1.65 'Manrope', sans-serif;
+  --body-m: 400 17px/1.6 'Manrope', sans-serif;
+  --body-s: 400 18px/1.5 'Manrope', sans-serif;
+  --body-secondary-l: 400 16px/1 'Manrope', sans-serif;
+  --body-secondary-m: 400 15px/1 'Manrope', sans-serif;
+  --body-secondary-s: 400 15px/1 'Manrope', sans-serif;
+  --body-xsmall-l: 500 15px/1.2 'Poppins', sans-serif;
+  --body-xsmall-m: 500 15px/1.2 'Poppins', sans-serif;
+  --body-xsmall-s: 500 14px/1.2 'Poppins', sans-serif;
 }
 
 h1 {
