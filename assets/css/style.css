@@ -101,3 +101,26 @@
 h1 {
   font: var(--heading-1-l);
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color: var(--ui-dark-700);
+  width: 100%;
+  padding-inline: 60px;
+  padding-block: 22px;
+}
+
+.container {
+  width: 1200px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
