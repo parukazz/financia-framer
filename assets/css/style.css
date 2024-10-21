@@ -84,6 +84,18 @@
   --body-xsmall-l: 500 15px/1.2 'Poppins', sans-serif;
   --body-xsmall-m: 500 15px/1.2 'Poppins', sans-serif;
   --body-xsmall-s: 500 14px/1.2 'Poppins', sans-serif;
+  --body-small-l: 400 16px/1.6 'Manrope', sans-serif;
+  --body-small-m: 400 15px/1.6 'Manrope', sans-serif;
+  --body-small-s: 400 15px/1.6 'Manrope', sans-serif;
+  --body-large-l: 400 19px/1.65 'Manrope', sans-serif;
+  --body-large-m: 400 18px/1.65 'Manrope', sans-serif;
+  --body-large-s: 400 17px/1.65 'Manrope', sans-serif;
+  --body-xlarge-l: 400 20px/1.65 'Manrope', sans-serif;
+  --body-xlarge-m: 400 18px/1.65 'Manrope', sans-serif;
+  --body-xlarge-s: 400 17px/1.65 'Manrope', sans-serif;
+  --navigation-l: 400 18px/2.3 'Manrope', sans-serif;
+  --navigation-m: 400 17px/2.3 'Manrope', sans-serif;
+  --navigation-s: 400 17px/2.3 'Manrope', sans-serif;
 }
 
 h1 {
